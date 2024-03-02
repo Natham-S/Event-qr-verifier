@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "383406049943",
+    "firebase_url": "https://pramana-qrverifier-default-rtdb.firebaseio.com",
+    "project_id": "pramana-qrverifier",
+    "storage_bucket": "pramana-qrverifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383406049943:android:36c1497a3e5d2e2868f7d2",
+        "android_client_info": {
+          "package_name": "com.pramana.pramana_qr_checker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxRsAyX3z_tVpl3iCewCtvzst7hLiqaAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383406049943:android:f75752c66b44c73568f7d2",
+        "android_client_info": {
+          "package_name": "com.pramana.pramana_qr_verifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxRsAyX3z_tVpl3iCewCtvzst7hLiqaAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
