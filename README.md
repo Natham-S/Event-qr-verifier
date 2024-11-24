@@ -1,4 +1,4 @@
-# BreadcrumbsEvent-qr-verifier
+# Event-qr-verifier
 
 
 Event pass QR verifier mobile application
